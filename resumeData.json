@@ -1,0 +1,100 @@
+{
+  "main": {
+    "name":"Josh Lelito",
+    "occupation":"Blockchain and Web Developer",
+    "description":"I'm a blockchain enthusiast who enjoys researching distributed systems and building use cases around smart-contracts",
+    "image":"profilepic.jpg",
+    "bio":"I love learning about blockchain and cryptocurrencies. In 2016 I started researching blockchain and how the technology can change the Internet. In 2019 I began to learn Solidity and build decentralised applications. My dream is to contribute to the space by building meaningful applications",
+    "contactmessage":"Feel Free to contact me!",
+    "email": "youremailhere@gmail.com",
+    "address":{
+      "city":"Raleigh",
+      "state":"NC",
+      "zip": "27518"
+    },
+    "website": "http://jlelito.github.io/joshportfolio",
+    "resumedownload":"https://www.linkedin.com/in/joshua-lelito/",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joshua-lelito/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/jlelito",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I've worked on numerous personal projects using React.js and Solidity. I also have experience using Python to automate tasks at work. Currently I am specializing in blockchain and smart-contract development",
+    "education":[
+      {
+        "school":"East Carolina University",
+        "degree":"Bachelor in Management Information Systems",
+        "graduated":"May 2020",
+        "description":"At ECU I gained a strong understanding of how technology can affect business. During my time at school, I closely followed developments in the cryptocurrency industry. During my junior and senior year, I was able to work on projects using Waterfall and Agile methodologies."
+      }
+    ],
+    "work":[
+      {
+        "company":"Cisco",
+        "title":"Business Analyst",
+        "years":"July 2020 - Present",
+        "description":"When first starting at Cisco, I facilitated an automation initiative using a ChatBot to reduce IT cases. This bot has been used by 100+ unique users and has logged 500+ usage hits. I also worked on 30+ compliance controls in the finance department. Currently I am the Product Owner of the Collections Management System at Cisco."
+      },
+      {
+        "company":"SAS",
+        "title":"Technical IT Intern",
+        "years":"May 2019 - August 2019",
+        "description":"At SAS, I worked on an automation project to help decomission virtual environments. Using Python and PowerShell, I was able to cut down the amount of time it takes to decomission from 6+ hours to under 1 hour. While testing the scripts, I eliminated over 200 unused virtual servers which saved the IT department over $15K a month of RAM and processing power."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Solidity",
+        "level":"70%"
+      },
+      {
+        "name":"Javascript",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"40%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Charity Pool",
+        "category":"Deposit money and generate interest for a charity! Vote for the charity of the week to receive the interest!",
+        "image":"charity.jpg",
+        "url":"https://jlelito.github.io/CharityPool/"
+      },
+      {
+        "title":"House Tokens",
+        "category":"Buy and sell houses on the blockchain! Set royalties that are sent to an address whenever your house is bought/sold",
+        "image":"house.jpg",
+        "url":"https://jlelito.github.io/house-tokens/"
+      },
+      {
+        "title":"Fundraising",
+        "category":"Create fundraisers and contribute to campaigns! If the campaign fails to reach the goal, then you can withdraw your funds!",
+        "image":"fundraising.jpg",
+        "url":"https://jlelito.github.io/fundraising/"
+      }
+    ]
+  }
+}
